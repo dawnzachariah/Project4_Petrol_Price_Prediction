@@ -14,4 +14,4 @@ Time series forecasting using various classical models were implemented
 --ARIMA model
 --Holt Exponential Smoothing
 
-Built on RShniy
+Built on RShiny
