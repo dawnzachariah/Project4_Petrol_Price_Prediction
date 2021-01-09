@@ -4,6 +4,7 @@ Time Series Analysis Project in R
 
 To predict the petrol price of the Metropolitan cities [Delhi, Kolkata, Mumbai and Chennai] of India for the next 15 days based on the data of past 2 years.
 
+
 Data:
 
 Univariate Time Series Data
