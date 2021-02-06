@@ -15,3 +15,4 @@ To predict the petrol price of the Metropolitan cities [Delhi, Kolkata, Mumbai a
 - The application built showed the data, details about the models fitted and also a comparison between the original price and predicted price. 
 - Interactive web application built on RShiny.
 
+![alt text](https://github.com/dawnzachariah/Project5_Petrol_Price_Prediction/blob/main/UI_Screenshot_Prediction.jpg?raw=true)
